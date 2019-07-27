@@ -5,37 +5,41 @@
 [mike@vnerd.io](mailto:mike@vnerd.io)  
 Chattanooga, TN
 
-# Experience
+<p align="center" style="font-size:2em;">Experience</p>
 
-## Tennessee Valley Authority - Chattanooga, Tennessee
+## Tennessee Valley Authority
 
+**Chattanooga, TN**  
 **Automation and Cloud Engineer Lead**  
 **Jan 2016 - Present**
 
 Served in a variety of roles to solve technology challenges. Established standards and documentation around TVA Cloud Best Practices. Utilized Agile methodology to implement multi-cloud strategy and reduce on-premise spend. Led a seperate agile team effort to reduce technical debt in infrastructure by resolving technical debt. Collected requirements for new projects, 
 
-## Claris Networks (Teklinks/C Spire) - Chattanooga, Tennessee
+## Claris Networks
 
+**Chattanooga, TN**  
 **Senior Infrastructure Engineer**  
 **Nov 2011 - Jan 2016**
 
 Principal Infrastructure Engineer responsible for capacity, planning, and implementation for three datacenters. Led technical team to integrate acquisition in Nashville, consisting of V2V of an 800 VM Xen environment to VMware. Planned and coordinated migration of primary production datacenter in Knoxville to Chattanooga, consisting of ~2,000 VMs affecting 300 customers. Managed and implemented larger Chattanooga area customer projects. 
 
-## Terenine - Chattanooga, Tennessee
+## Terenine
 
+**Chattanooga, TN**  
 **Windows Team Lead**  
 **May 2009 - Nov 2011**
 
 Worked on a development team responsible for major financial application. Lead the fraud detection development efforts. Worked in mostly virtualized environment, at first supporting Windows/VMware, later hiring and managing a Windows Administrator team.
 
-## Larry Methvin Installation - Ontario, California
+## Larry Methvin Installation
 
+**Ontario, CA**  
 **System Administrator**  
 **Apr 2002 - May 2009**
 
 Managed medium sized physical infrastructure. Migrated from Novell to Windows. Planned/implemented additional sites. Developed in-house Enterprise Resource Planning tool. Conducted business analysis to determine workflow efficiencies.
 
-# Certifications
+<p align="center" style="font-size:2em;">Certifications</p>
 
 ## VMware Certifications
 [http://bit.ly/mike-vcp](http://bit.ly/mike-vcp)
@@ -54,7 +58,7 @@ Code: BraveSirRobin
 - MCITP:EA
 - MCSE
 
-# Education
+<p align="center" style="font-size:2em;">Education</p>
 
 ## Golden Gate Seminary
 
@@ -67,7 +71,7 @@ BA Religion
 BA Psychology
 SEP 1990-JUN 1994
 
-## Portfolio
+<p align="center" style="font-size:2em;">Portfolio</p>
 
 - Agile Infrastructure Project Scrum Master
 - Enterprise VMware 6.5 VCSA Migration
