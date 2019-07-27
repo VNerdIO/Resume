@@ -42,6 +42,7 @@ Managed medium sized physical infrastructure. Migrated from Novell to Windows. P
 <p align="center" style="font-size:2em;">Certifications</p>
 
 ## VMware Certifications
+ 
 [http://bit.ly/mike-vcp](http://bit.ly/mike-vcp)
 
 - VCAP-Design (6.5)
@@ -51,8 +52,9 @@ Managed medium sized physical infrastructure. Migrated from Novell to Windows. P
 - VCP-DCV4
 
 ## Microsoft Certifications
-[http://bit.ly/mike-mcse](http://bit.ly/mike-mcse)<br />
-Transcript ID: 978805<br />
+
+[http://bit.ly/mike-mcse](http://bit.ly/mike-mcse)  
+Transcript ID: 978805  
 Code: BraveSirRobin
 
 - MCITP:EA
@@ -75,4 +77,3 @@ SEP 1990-JUN 1994
 
 - Agile Infrastructure Project Scrum Master
 - Enterprise VMware 6.5 VCSA Migration
-- 
