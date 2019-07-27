@@ -5,14 +5,14 @@
 [mike@vnerd.io](mailto:mike@vnerd.io)  
 Chattanooga, TN
 
-$$Experience$$
+# Experience
 
 ## Tennessee Valley Authority - Chattanooga, Tennessee
 
 **Automation and Cloud Engineer Lead**  
 **Jan 2016 - Present**
 
-Served in a variety of roles to solve technology challenges. Established standards and documentation around TVA Cloud Best Practices. Utilized Agile methodology to implement multi-cloud strategy and reduce on-premise spend. Led a seperate agile team effort to reduce technical debt in infrastructure by resolving technical debt.
+Served in a variety of roles to solve technology challenges. Established standards and documentation around TVA Cloud Best Practices. Utilized Agile methodology to implement multi-cloud strategy and reduce on-premise spend. Led a seperate agile team effort to reduce technical debt in infrastructure by resolving technical debt. Collected requirements for new projects, 
 
 ## Claris Networks (Teklinks/C Spire) - Chattanooga, Tennessee
 
@@ -35,7 +35,7 @@ Worked on a development team responsible for major financial application. Lead t
 
 Managed medium sized physical infrastructure. Migrated from Novell to Windows. Planned/implemented additional sites. Developed in-house Enterprise Resource Planning tool. Conducted business analysis to determine workflow efficiencies.
 
-$$Certifications$$
+# Certifications
 
 ## VMware Certifications
 [http://bit.ly/mike-vcp](http://bit.ly/mike-vcp)
@@ -54,7 +54,7 @@ Code: BraveSirRobin
 - MCITP:EA
 - MCSE
 
-$$Education$$
+# Education
 
 ## Golden Gate Seminary
 
