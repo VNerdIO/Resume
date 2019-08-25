@@ -7,11 +7,17 @@ Chattanooga, TN
 
 <p align="center" style="font-size:2em;">Experience</p>
 
+## C Spire
+
+**Chattanooga, TN**  
+**Infrastructure Engineer**  
+**Aug 2019 - Present**
+
 ## Tennessee Valley Authority
 
 **Chattanooga, TN**  
 **Automation and Cloud Engineer Lead**  
-**Jan 2016 - Present**
+**Jan 2016 - Aug 2019**
 
 Served in a variety of roles to solve technology challenges. Established standards and documentation around TVA Cloud Best Practices. Utilized Agile methodology to implement multi-cloud strategy and reduce on-premise spend. Led a seperate agile team effort to reduce technical debt in infrastructure. Collected requirements for new projects, worked with project managers to develop task schedules.
 
