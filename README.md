@@ -1,17 +1,27 @@
 # Michael O'Keefe Smith
 
-## VMware/Automation/Cloud Engineer
+## Solutions Architect
 
 [mike@vnerd.io](mailto:mike@vnerd.io)  
 Chattanooga, TN
 
 <p align="center" style="font-size:2em;">Experience</p>
 
-## C Spire
+## Tennessee Valley Authority
 
 **Chattanooga, TN**  
-**Infrastructure Engineer**  
-**Aug 2019 - Present**
+**Solutions Architect**  
+**May 2020 - Current**
+
+
+
+## C Spire Business
+
+**Chattanooga, TN**  
+**Infrastructure and Cloud Engineer**  
+**Aug 2019 - May 2020**
+
+Worked with a distributed team to manage five datacenters. Started consolidation efforts to migrate out of two datacenters. Retired old equipment to consolidate rackspace and reduce risk. Planned vCloud Director implementation. Expanded monitoring solution into broadband and wireless segments of the company. Developed and implemented product for network-only monitoring engagements. Updated and planned expansion for virtual resource deployment automation.
 
 ## Tennessee Valley Authority
 
@@ -63,6 +73,8 @@ Led migration from Novell to Windows. Planned/implemented additional sites. Mana
 Transcript ID: 978805  
 Code: BraveSirRobin
 
+- AZ-500: Azure Security Engineer Associate
+- AZ-900: Azure Fundamentals
 - MCITP:EA
 - MCSE
 
