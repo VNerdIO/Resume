@@ -73,6 +73,7 @@ Led migration from Novell to Windows. Planned/implemented additional sites. Mana
 Transcript ID: 978805  
 Code: BraveSirRobin
 
+- AZ-303: Microsoft Azure Architect Technologies
 - AZ-500: Azure Security Engineer Associate
 - AZ-900: Azure Fundamentals
 - MCITP:EA
