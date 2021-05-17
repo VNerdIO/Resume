@@ -70,7 +70,7 @@ Led migration from Novell to Windows. Planned/implemented additional sites. Mana
 ## Microsoft Certifications
 
 [http://bit.ly/mike-mcse](http://bit.ly/mike-mcse)  
-Transcript ID: 978805  
+Transcript ID: 1304205  
 Code: BraveSirRobin
 
 - AZ-303: Microsoft Azure Architect Technologies
