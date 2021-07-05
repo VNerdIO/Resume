@@ -13,7 +13,7 @@ Chattanooga, TN
 **Solutions Architect**  
 **May 2020 - Current**
 
-
+Managed tasks for Cloud Engineers (employees and contractors). Provide technical direction and standards. Coordinate with other teams (CyberSecurity, Development, business) to implement solutions according to standards. 
 
 ## C Spire Business
 
