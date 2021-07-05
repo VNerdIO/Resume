@@ -13,7 +13,7 @@ Chattanooga, TN
 **Solutions Architect**  
 **May 2020 - Current**
 
-Managed tasks for Cloud Engineers (employees and contractors). Provide technical direction and standards. Coordinate with other teams (CyberSecurity, Development, business) to implement solutions according to standards. 
+Managed tasks for Cloud Engineers (employees and contractors). Hold daily standups with longer sessions to assist with trouble tickets and training. Provide technical direction and standards. Coordinate with other teams (CyberSecurity, Development, business teams, business engagement specialists, and TDSs) to implement solutions according to standards. Consult with business and development teams to recommend solutions with consideration to availability needs and cost concerns. Implmented monthly advisory team (monthly meetings) to provide direction for larger cloud initiatives. Established a core team to discuss and implement internal cloud initiatives providing a quarterly roadmap. Provided timely communication of incidents and cloud initiatives to management.
 
 ## C Spire Business
 
@@ -21,7 +21,7 @@ Managed tasks for Cloud Engineers (employees and contractors). Provide technical
 **Infrastructure and Cloud Engineer**  
 **Aug 2019 - May 2020**
 
-Worked with a distributed team to manage five datacenters. Started consolidation efforts to migrate out of two datacenters. Retired old equipment to consolidate rackspace and reduce risk. Planned vCloud Director implementation. Expanded monitoring solution into broadband and wireless segments of the company. Developed and implemented product for network-only monitoring engagements. Updated and planned expansion for virtual resource deployment automation.
+Worked with a distributed team to manage five datacenters. Started consolidation efforts to migrate out of two datacenters. Retired old equipment to consolidate rackspace and reduce risk. Planned vCloud Director implementation. Expanded monitoring solution into broadband and wireless segments of the company. Developed and implemented product for network-only monitoring engagements. Updated and planned expansion for virtual resource deployment automation. Met with executive team to propose additional monitoring and reporting capabilities.
 
 ## Tennessee Valley Authority
 
@@ -29,7 +29,7 @@ Worked with a distributed team to manage five datacenters. Started consolidation
 **Automation and Cloud Engineer Lead**  
 **Jan 2016 - Aug 2019**
 
-Served in a variety of roles to solve technology challenges. Established standards and documentation around TVA Cloud Best Practices. Utilized Agile methodology to implement multi-cloud strategy and reduce on-premise spend. Led a seperate agile team effort to reduce technical debt in infrastructure. Collected requirements for new projects, worked with project managers to develop task schedules.
+Served in a variety of roles to solve technology challenges. Established standards and documentation around TVA Cloud Best Practices. Utilized Agile methodology to plan and implement multi-cloud strategy and reduce on-premise spend. Led a seperate agile team effort to reduce technical debt in infrastructure. Collected requirements for new projects. Worked with project managers to develop task schedules. Coordinated communication between teams and management.
 
 ## Claris Networks
 
@@ -37,7 +37,7 @@ Served in a variety of roles to solve technology challenges. Established standar
 **Senior Infrastructure Engineer**  
 **Nov 2011 - Jan 2016**
 
-Principal Infrastructure Engineer responsible for capacity, planning, and implementation for three datacenters. Led technical team to integrate acquisition in Nashville, consisting of migrating Xen environment to VMware. Planned and coordinated migration of primary production datacenter in Knoxville to Chattanooga, consisting of ~2,000 VMs affecting 300 customers. Managed and implemented larger Chattanooga area customer projects.
+Principal Infrastructure Engineer responsible for capacity, planning, and implementation for three datacenters. Led technical team to integrate acquisition in Nashville, consisting of migrating Xen environment to VMware. Planned and coordinated migration of primary production datacenter in Knoxville to Chattanooga, consisting of ~2,000 VMs affecting 300+ customers. Managed and implemented larger Chattanooga area customer projects. Coordinated communication with program managers, technical account managers, and mangement for larger customer problems to recommend technical solutions.
 
 ## Terenine
 
@@ -45,7 +45,7 @@ Principal Infrastructure Engineer responsible for capacity, planning, and implem
 **Windows Team Lead**  
 **May 2009 - Nov 2011**
 
-Worked on a development team responsible for major financial application. Led the fraud detection development efforts. Supported VMware, and Windows environments. Managed the Windows administrator team.
+Worked on a development team responsible for major financial application. Led the fraud detection development efforts. Supported VMware, and Windows environments. Managed the Windows administrator team. Planned and maintained larger in-house systems. Coordinated with business units, scrum teams, and IT management to improve efficiency and plan upgrades.
 
 ## Larry Methvin Installation
 
@@ -53,7 +53,7 @@ Worked on a development team responsible for major financial application. Led th
 **System Administrator**  
 **Apr 2002 - May 2009**
 
-Led migration from Novell to Windows. Planned/implemented additional sites. Managed WAN connectivity to five sites. Developed in-house Enterprise Resource Planning tool. Conducted business analysis to determine workflow efficiencies.
+Planned and implmented migration from Novell to Windows. Planned/implemented additional sites. Hired additional administrators. Managed WAN connectivity to five sites. Developed in-house Enterprise Resource Planning tool. Conducted business analysis to determine workflow efficiencies.
 
 <p align="center" style="font-size:2em;">Certifications</p>
 
