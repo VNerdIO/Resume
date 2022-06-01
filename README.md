@@ -1,6 +1,6 @@
 # Michael O'Keefe Smith
 
-## Solutions Architect
+## Solutions Architect/Agile Coach
 
 [mike@vnerd.io](mailto:mike@vnerd.io)  
 Chattanooga, TN
@@ -10,8 +10,16 @@ Chattanooga, TN
 ## Tennessee Valley Authority
 
 **Chattanooga, TN**  
-**Solutions Architect**  
-**May 2020 - Current**
+**Senior Scrum Master**  
+**Feb 2022 - Current**
+
+Working with teams to streamline and improve work management. Work with peer Scrum Masters to plan the implementation of Agile at TVA. Communicate with managers and senior leadership agile methodologies. Coordinated a Community of Practice and planned regular events. Provided regular coaching in an adhoc office hours setting.
+
+## Tennessee Valley Authority
+
+**Chattanooga, TN**  
+**Solutions Architect - Cloud**  
+**May 2020 - Feb 2022**
 
 Managed tasks for Cloud Engineers (employees and contractors). Hold daily standups with longer sessions to assist with trouble tickets and training. Provide technical direction and standards. Coordinate with other teams (CyberSecurity, Development, business teams, business engagement specialists, and TDSs) to implement solutions according to standards. Consult with business and development teams to recommend solutions with consideration to availability needs and cost concerns. Implmented monthly advisory team (monthly meetings) to provide direction for larger cloud initiatives. Established a core team to discuss and implement internal cloud initiatives providing a quarterly roadmap. Provided timely communication of incidents and cloud initiatives to management.
 
