@@ -65,6 +65,10 @@ Planned and implmented migration from Novell to Windows. Planned/implemented add
 
 <p align="center" style="font-size:2em;">Certifications</p>
 
+## Agile Certifications
+
+Certified Scrum Master
+
 ## VMware Certifications
  
 [http://bit.ly/mike-vcp](http://bit.ly/mike-vcp)
