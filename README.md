@@ -67,12 +67,10 @@ Planned and implmented migration from Novell to Windows. Planned/implemented add
 
 ## Agile Certifications
 
-Certified Scrum Master
+[Advanced Certified ScrumMaster](https://www.scrumalliance.org/community/profile/msmith419)
 
 ## VMware Certifications
  
-[http://bit.ly/mike-vcp](http://bit.ly/mike-vcp)
-
 - VCAP-Design (6.5)
 - VCP-DCV6.5
 - VCP-DCV6
