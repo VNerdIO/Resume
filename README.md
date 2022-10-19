@@ -16,8 +16,6 @@ Chattanooga, TN
 
 Working with teams to streamline and improve work management. Work with peer Scrum Masters to plan the implementation of Agile at TVA. Communicate with managers and senior leadership agile methodologies. Coordinated a Community of Practice and planned regular events. Provided regular coaching in an adhoc office hours setting.
 
-## Tennessee Valley Authority
-
 **Chattanooga, TN**  
 **Solutions Architect - Cloud**  
 **May 2020 - Feb 2022**
