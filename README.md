@@ -2,7 +2,7 @@
 
 ## Solutions Architect/Agile Coach
 
-[mike@vnerd.io](mailto:mike@vnerd.io)  
+[mosmith@duck.com](mailto:mosmith@duck.com)
 Chattanooga, TN
 
 <p align="center" style="font-size:2em;">Experience</p>
