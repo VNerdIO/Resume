@@ -3,6 +3,7 @@
 ## Solutions Architect/Agile Coach
 
 [mosmith@duck.com](mailto:mosmith@duck.com)
+
 Chattanooga, TN
 
 <p align="center" style="font-size:2em;">Experience</p>
