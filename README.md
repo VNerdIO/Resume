@@ -91,11 +91,11 @@ Code: BraveSirRobin
 
 <p align="center" style="font-size:2em;">Education</p>
 
-## Golden Gate Seminary
+## Golden Gate Seminary - May 1999
 
 Master of Divinity
 
-## Carson-Newman College
+## Carson-Newman College - May 1994
 
 BA Religion
 BA Psychology
