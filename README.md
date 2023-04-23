@@ -14,7 +14,7 @@ Chattanooga, TN
 **Senior Scrum Master**  
 **Feb 2022 - Current**
 
-Working with teams to streamline and improve work management. Work with peer Scrum Masters to plan the implementation of Agile at TVA. Communicate with managers and senior leadership agile methodologies. Coordinated a Community of Practice and planned regular events. Provided regular coaching in an adhoc office hours setting.
+Working with teams to streamline and improve work management. Work with peer Scrum Masters to plan the implementation of Agile at TVA. Communicate with managers and senior leadership agile methodologies. Coordinated a Community of Practice and planned regular events. Provided regular coaching in an adhoc office hours setting. Worked with other Senior Scrum Masters to implement Agile at TVA. Co-developed curriculum for use to facilitate Agile training within TVA. Developed Sharepoint articles and video content in support of Agile initiatives. Provided one-on-one team coaching to understand roles and responsibilities and agile methodologies.
 
 **Chattanooga, TN**  
 **Solutions Architect - Cloud**  
