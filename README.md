@@ -68,6 +68,7 @@ Planned and implmented migration from Novell to Windows. Planned/implemented add
 
 - [Advanced Certified ScrumMaster](https://badgecert.com/bc/html/groupbadges.html?k=WStCdC96eGthdENxVXlFVzVXSURjVGs0cTkybW0yb2Q)
 - [ScrumAlliance profile](https://www.scrumalliance.org/community/profile/msmith419)
+- [Resource Management Certified Professional](https://www.credly.com/badges/4e5dac0f-6b25-4a7c-8edb-a8717d194fa1/public_url)
 
 ## VMware Certifications
  
