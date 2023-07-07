@@ -11,8 +11,12 @@ Chattanooga, TN
 ## Tennessee Valley Authority
 
 **Chattanooga, TN**  
+**Program Manager, CyberSecurity Operations**  
+**June 2023 - Current**
+
+**Chattanooga, TN**  
 **Senior Scrum Master**  
-**Feb 2022 - Current**
+**Feb 2022 - June 2023**
 
 Working with teams to streamline and improve work management. Work with peer Scrum Masters to plan the implementation of Agile at TVA. Communicate with managers and senior leadership agile methodologies. Coordinated a Community of Practice and planned regular events. Provided regular coaching in an adhoc office hours setting. Worked with other Senior Scrum Masters to implement Agile at TVA. Co-developed curriculum for use to facilitate Agile training within TVA. Developed Sharepoint articles and video content in support of Agile initiatives. Provided one-on-one team coaching to understand roles and responsibilities and agile methodologies.
 
@@ -63,6 +67,10 @@ Worked on a development team responsible for major financial application. Led th
 Planned and implmented migration from Novell to Windows. Planned/implemented additional sites. Hired additional administrators. Managed WAN connectivity to five sites. Developed in-house Enterprise Resource Planning tool. Conducted business analysis to determine workflow efficiencies.
 
 <p align="center" style="font-size:2em;">Certifications</p>
+
+## Cybersecurity Certifications
+
+- [(ISC)<sup>2</sup> Certificate in Cybersecurity (CC)](https://www.credly.com/badges/9ae0eda8-66aa-4e3f-bc8e-b26743cd8dfd/public_url)
 
 ## Agile Certifications
 
