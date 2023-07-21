@@ -14,6 +14,8 @@ Chattanooga, TN
 **Program Manager, CyberSecurity Operations**  
 **June 2023 - Current**
 
+Provide leadership, technical expertise, and analysis to team members. Interact with external teams to facilitate conversations and achieve objectives. Provide leadership updates on current initiatives and priorities. Interact with vendors and third parties to engage and escalate support issues. Maintain evolving knowledge of trends and potential improvements in operations.
+
 **Chattanooga, TN**  
 **Senior Scrum Master**  
 **Feb 2022 - June 2023**
