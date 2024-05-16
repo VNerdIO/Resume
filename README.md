@@ -1,6 +1,6 @@
 # Michael O'Keefe Smith
 
-## Solutions Architect/Agile Coach
+## Solutions Architect
 
 [mosmith@duck.com](mailto:mosmith@duck.com)
 
