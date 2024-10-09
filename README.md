@@ -11,7 +11,7 @@ Chattanooga, TN
 ## Tennessee Valley Authority
 
 **Chattanooga, TN**  
-**Program Manager, Cybersecurity Operations**  
+**Program Manager, Cybersecurity Architecture**  
 **June 2023 - Current**
 
 Provide leadership, technical expertise, and analysis to team members. Interact with external teams to facilitate conversations and achieve objectives. Provide leadership updates on current initiatives and priorities. Interact with vendors and third parties to engage and escalate support issues. Maintain evolving knowledge of trends and potential improvements in operations.
