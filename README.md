@@ -73,6 +73,7 @@ Planned and implmented migration from Novell to Windows. Planned/implemented add
 ## Cybersecurity Certifications
 
 - [(ISC)<sup>2</sup> Certificate in Cybersecurity (CC)](https://www.credly.com/badges/9ae0eda8-66aa-4e3f-bc8e-b26743cd8dfd/public_url)
+- [Zscaler ZDTA](https://www.credly.com/badges/7819727f-03a4-49ea-9bc8-16fd93191bc0/public_url)
 
 ## Agile Certifications
 
